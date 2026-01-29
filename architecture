@@ -1,0 +1,13 @@
+Root Account
+   |
+   |-- creates EC2 + SG + IAM Role
+   |
+IAM Role (attached to EC2)
+   |
+   |-- CloudWatchAgentServerPolicy
+   |
+EC2 Instance
+   |
+IAM User (Read-only)
+   |
+   |-- Monitoring / Auditing only
