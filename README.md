@@ -46,9 +46,6 @@ A **defense-in-depth security approach** was implemented using multiple layers:
 5. Fail2Ban (using `jail.local`)
 6. CloudWatch metrics, alarms, and dashboards
 
-Architecture diagram available in:
-/docs/architecture.png
-
 
 ---
 
