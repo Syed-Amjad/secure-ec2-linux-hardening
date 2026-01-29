@@ -202,15 +202,6 @@ Automation ensures **consistency and repeatability**.
 
 ---
 
-## 📸 Screenshots (for LinkedIn & Portfolio)
-
-- EC2 instance running
-- Security Group rules
-- firewalld rules
-- Fail2Ban status
-- CloudWatch alarms
-- CloudWatch dashboard
-
 ---
 
 ## 🚀 Use Case
