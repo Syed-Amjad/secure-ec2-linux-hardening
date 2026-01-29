@@ -181,14 +181,6 @@ Automation ensures **consistency and repeatability**.
 
 ---
 
-## 📂 Repository Structure
-secure-ec2-linux-hardening/
-├── README.md
-├── scripts/
-│ └── hardening.sh
-└── docs/
-└── architecture.png
-
 
 ---
 
